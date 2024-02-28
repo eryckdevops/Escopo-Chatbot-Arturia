@@ -51,7 +51,7 @@ Equipe Customer Success
 >
 <br>
 
-[:heavy_check_mark:]: Preciso do Suporte ele vai precisar ir pro fluxo Suporte: 4**
+✅**Preciso do Suporte ele vai precisar ir pro fluxo Suporte: 4**
 > 
 
 [x] Suporte
@@ -68,19 +68,19 @@ Equipe Customer Success
 
 > ## Opções:
 
-**[:heavy_check_mark:]:Solicitar contato comercial**
+**✅:Solicitar contato comercial**
 >
 Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8450/]
 <br>
 
-**[:heavy_check_mark:]:Solicitar mais licenças** 
+**✅:Solicitar mais licenças** 
 >
 
 Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8451/]
 <br>
 
 
-**[:heavy_check_mark:]:Saber mais sobre outros produtos**
+**✅:Saber mais sobre outros produtos**
 >
 Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 <br>
@@ -90,6 +90,7 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 - :heavy_check_mark: Voltar ao menu inicial
 - :heavy_check_mark: Voltar as opções anteriores
 <br>
+<br>
 
 > ##  3 Personalização
 
@@ -97,7 +98,7 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 
 > ## Opções:
 
-**:heavy_check_mark:-[x]: Estou com Problema em uma personalização**
+**✅Estou com Problema em uma personalização**
 >
 
 [x]Problema Botão      
@@ -107,7 +108,7 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 :heavy_check_mark:Voltar ao menu inicial
 
 
-**:heavy_check_mark:-[x]: Você deseja solicitar uma nova personalização**
+**✅Você deseja solicitar uma nova personalização**
 >
 [https://arturia-tech.movidesk.com/form/8453/]
 
@@ -117,33 +118,33 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 
 Se o usuário escolher "Suporte" em qualquer ponto, ou se o bot não conseguir resolver a questão:
 
-Bot: Gostaria de falar com nossa equipe de Analista de Suporte? Por favor, informe seu nome e empresa para que possamos entrar em contato com você.
+🔵 **Bot**: **Gostaria de falar com nossa equipe de Analista de Suporte? Por favor, informe seu nome e empresa para que possamos entrar em contato com você.**
 
-**:heavy_check_mark:-[x].Problemas em um Pedido de venda**
+**✅1.Problemas em um Pedido de venda**
 > Olá! Como posso ajudar você hoje? Parece que você está enfrentando um problema em um Pedido de venda. Para fornecer uma solução mais detalhada, gostaria de pedir que você acessasse o seguinte link:[https://arturia-tech.movidesk.com/kb/pt-br/article/454117/problemas-em-um-pedido-de-venda]. Lá, você encontrará informações adicionais e possíveis soluções para o seu problema. Depois de revisar as informações, se você precisar de mais assistência, estou aqui para ajudar.
 
 > Seu problema foi solucionado? Caso contrário, por favor, clique aqui para abrir um chamado e entrar em contato com nossa Equipe de Suporte
 
 > Caso seu problema tenha sido resolvido, por favor, proceda com o encerramento do atendimento.
 
-**:heavy_check_mark:-[x].Integração de Historico/KPI e Relatórios com informações erradas**
+**✅2.Integração de Historico/KPI e Relatórios com informações erradas**
 
-**:heavy_check_mark:-[x].Integração está totalmente parada**
+**✅3.Integração está totalmente parada**
 > Olá! Como posso ajudar você hoje? Parece que você está enfrentando um problema com a Integração que está totalmente parada. Para fornecer uma solução mais detalhada, gostaria de pedir que você acessasse o seguinte link: [https://arturia-tech.movidesk.com/kb/pt-br/article/454121/integracao-totalmente-parada]. Lá, você encontrará informações adicionais e possíveis soluções para o seu problema. Depois de revisar as informações, se você precisar de mais assistência, estou aqui para ajudar.
 
 > Seu problema foi solucionado? Caso contrário, por favor, clique aqui para abrir um chamado e entrar em contato com nossa Equipe de Suporte!
 
 > Caso seu problema tenha sido resolvido, por favor, proceda com o encerramento do atendimento.
 
-**:heavy_check_mark:-[x].Alterar minha Regra de Negócio**
+**✅4.Alterar minha Regra de Negócio**
 
-**:heavy_check_mark:-[x].Dúvidas ou Sugestões**
+**✅5.Dúvidas ou Sugestões**
 
-**:heavy_check_mark:-[x].Mudança de Infraestrutura**
+**✅6.Mudança de Infraestrutura**
 
-**:heavy_check_mark:-[x].Identifiquei Bug no Produto Padrão**
+**✅7.Identifiquei Bug no Produto Padrão**
 
-**:heavy_check_mark:-[x]:Um ou mais usuários não conseguem acessar a plataforma**
+**✅8.Um ou mais usuários não conseguem acessar a plataforma**
 
 > Olá! Como posso ajudar você hoje? Parece que você está enfrentando um problema que um ou mais usuários não conseguem acessar a plataforma. Para fornecer uma solução mais detalhada, gostaria de pedir que você acessasse o seguinte link: [https://arturia-tech.movidesk.com/kb/pt-br/article/454119/um-ou-mais-usuarios-nao-conseguem-acessar-o-sistema]. Lá, você encontrará informações adicionais e possíveis soluções para o seu problema. Depois de revisar as informações, se você precisar de mais assistência, estou aqui para ajudar.
 
@@ -152,18 +153,15 @@ Bot: Gostaria de falar com nossa equipe de Analista de Suporte? Por favor, infor
 > Caso seu problema tenha sido resolvido, por favor, proceda com o encerramento do atendimento.
 
 
-**:heavy_check_mark: 9.Problemas na Roterização ou Cadastro de Clientes**
+**✅9.Problemas na Roterização ou Cadastro de Clientes**
 >
 
 ##  Finalização
-Após o usuário ser direcionado para a informação desejada ou para um atendente:
-
-Bot: Existe mais alguma coisa com a qual possamos ajudar?
+🔵 **Bot** Sua satisfação é nossa prioridade. Há mais algo em que podemos ser úteis?
 Opções:
-
-Sim
-
-Não
+✅ Sim, gostaria de mais informações.
+<br>
+❌ Não, estou satisfeito(a) com o suporte recebido.
 
 
 ## 🤝 Desenvolvedor
