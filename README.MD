@@ -27,7 +27,7 @@
 
 > ## Opções:
 
-**[✅]:Agendar uma reunião com CS**
+**✅Agendar uma reunião com CS**
 
 >
 
