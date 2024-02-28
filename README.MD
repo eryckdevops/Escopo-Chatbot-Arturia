@@ -27,9 +27,10 @@
 
 > ## Opções:
 
-**[heavy_check_mark]:Agendar uma reunião com CS**
+**[:heavy_check_mark:]:Agendar uma reunião com CS**
 
->[x] 
+>
+
 Prezado(a) [Nome do Cliente],
 
 Agradecemos por entrar em contato com a nossa equipe de Customer Success. Para nos permitir atendê-lo(a) da melhor maneira possível e discutir detalhadamente suas necessidades ou preocupações, gostaríamos de sugerir o agendamento de uma reunião.
