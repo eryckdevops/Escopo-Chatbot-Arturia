@@ -85,7 +85,7 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 
 
 <br>
-- :heavy_check_mark: Voltar ao menu inicial
+
 - :heavy_check_mark: ⬅️ Voltar as opções anteriores
 <br>
 <br>
@@ -184,9 +184,13 @@ Se o usuário escolher "Suporte" em qualquer ponto, ou se o bot não conseguir r
 🔵 **Bot** **Espero que tenhamos conseguido ajudar você da melhor forma possível! 🌈 Existe algo mais com que podemos ajudar? Sua felicidade é muito importante para nós!**
 
 > ## Opções
+
 ✅ Sim, tenho mais uma pergunta.
+<br>
 ❌ Não, tudo resolvido por enquanto. Muito obrigado(a) pela ajuda!
+<br>
 ⬅️ Voltar ao menu anterior.
+<br>
 
 > ## Se o usuário escolher "Sim, tenho mais uma pergunta"
 
@@ -198,9 +202,13 @@ Se o usuário escolher "Suporte" em qualquer ponto, ou se o bot não conseguir r
 🔵 **Bot**: Fico muito feliz em saber que conseguimos ajudar! 🎉 Antes de nos despedirmos, você poderia nos dar um feedback sobre o seu atendimento hoje? Sua opinião é muito valiosa para nós e nos ajuda a melhorar constantemente o nosso serviço.
 
 > ## Opções de Feedback
+<br>
 ✅ Claro, gostaria de dar um feedback.
+<br>
 ❌ Prefiro não dar feedback agora.
+<br>
 ⬅️ Voltar ao menu anterior.
+<br>
 
 > Caso o usuário escolha dar um feedback
 
