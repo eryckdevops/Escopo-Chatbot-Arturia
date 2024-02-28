@@ -57,7 +57,7 @@ Com carinho,
 <br>
 
 - :heavy_check_mark: Voltar ao menu inicial
-
+- :heavy_check_mark: ⬅️ Voltar as opções anteriores
 <br>
 
 > ## 2 Equipe Comercial
@@ -86,7 +86,7 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 
 <br>
 - :heavy_check_mark: Voltar ao menu inicial
-- :heavy_check_mark: Voltar as opções anteriores
+- :heavy_check_mark: ⬅️ Voltar as opções anteriores
 <br>
 <br>
 
@@ -114,7 +114,9 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 
 [https://arturia-tech.movidesk.com/form/8453/]
 
-- :heavy_check_mark:Voltar ao menu inicial
+
+- :heavy_check_mark: Voltar ao menu inicial
+- :heavy_check_mark: ⬅️ Voltar as opções anteriores
 
 <br>
 
@@ -125,40 +127,56 @@ Se o usuário escolher "Suporte" em qualquer ponto, ou se o bot não conseguir r
 🔵 **Bot**: **Gostaria de falar com nossa equipe de Analista de Suporte? Por favor, informe seu nome e empresa para que possamos entrar em contato com você.**
 
 **✅1.Problemas em um Pedido de venda**
-> Olá! Como posso ajudar você hoje? Parece que você está enfrentando um problema em um Pedido de venda. Para fornecer uma solução mais detalhada, gostaria de pedir que você acessasse o seguinte link:[https://arturia-tech.movidesk.com/kb/pt-br/article/454117/problemas-em-um-pedido-de-venda]. Lá, você encontrará informações adicionais e possíveis soluções para o seu problema. Depois de revisar as informações, se você precisar de mais assistência, estou aqui para ajudar.
+>Olá! Parece que você encontrou um problema com um Pedido de venda. Para uma solução rápida, acesse este link [https://arturia-tech.movidesk.com/kb/pt-br/article/454117/problemas-em-um-pedido-de-venda], onde você encontrará informações e soluções. Se ainda precisar de ajuda, clique aqui para abrir um chamado. Estamos prontos para assisti-lo! Caso resolva, por favor, feche o atendimento.
 
-> Seu problema foi solucionado? Caso contrário, por favor, clique aqui para abrir um chamado e entrar em contato com nossa Equipe de Suporte
-
-> Caso seu problema tenha sido resolvido, por favor, proceda com o encerramento do atendimento.
+>Seu problema foi resolvido? Se ainda precisar de ajuda, clique aqui para abrir um chamado. Se estiver tudo certo, pode encerrar o atendimento. Estamos aqui para ajudar!
 
 **✅2.Integração de Historico/KPI e Relatórios com informações erradas**
 
+> Oi! Vi que está tendo um problema com as informações nos seus relatórios e KPIs, certo? Isso pode ser bem confuso. Para te ajudar a colocar tudo em ordem, preparei um guia simples e direto neste link:[https://arturia-tech.movidesk.com/kb/pt-br/article/454251/integracao-de-historico-kpi-e-relatorios-com-informacoes-erradas]Espero que resolva! Se precisar de mais alguma coisa, estou aqui. 😊 
+
+>Seu problema foi resolvido? Se ainda precisar de ajuda, clique aqui para abrir um chamado. Se estiver tudo certo, pode encerrar o atendimento. Estamos aqui para ajudar!
+
 **✅3.Integração está totalmente parada**
-> Olá! Como posso ajudar você hoje? Parece que você está enfrentando um problema com a Integração que está totalmente parada. Para fornecer uma solução mais detalhada, gostaria de pedir que você acessasse o seguinte link: [https://arturia-tech.movidesk.com/kb/pt-br/article/454121/integracao-totalmente-parada]. Lá, você encontrará informações adicionais e possíveis soluções para o seu problema. Depois de revisar as informações, se você precisar de mais assistência, estou aqui para ajudar.
+> Oi! Percebi que você está tendo um problema com uma integração que parou de funcionar, né? Isso deve ser frustrante, mas estou aqui para ajudar. Dá uma olhada nesse guia que preparamos para você[https://arturia-tech.movidesk.com/kb/pt-br/article/454121/integracao-totalmente-parada]. Ele tem várias informações e passos que podem solucionar esse impasse. E ó, se ainda assim você precisar de uma mãozinha, pode contar comigo, tá? Estou aqui para o que precisar.
 
-> Seu problema foi solucionado? Caso contrário, por favor, clique aqui para abrir um chamado e entrar em contato com nossa Equipe de Suporte!
 
-> Caso seu problema tenha sido resolvido, por favor, proceda com o encerramento do atendimento.
+> Seu problema foi resolvido? Se ainda precisar de ajuda, clique aqui para abrir um chamado. Se estiver tudo certo, pode encerrar o atendimento. Estamos aqui para ajudar!"
 
 **✅4.Alterar minha Regra de Negócio**
 
+> Oi! Vejo que você quer fazer uma alteração na sua Regra de Negócio. Isso é importante, e estou aqui para tornar o processo o mais simples possível para você. Se precisar de orientação ou quiser discutir as melhores opções acesse o link:[https://arturia-tech.movidesk.com/kb/pt-br/article/454253/mudanca-nas-regras-de-negocio], estou à disposição. Vamos juntos garantir que sua mudança seja bem-sucedida e positiva! 😊
+
+> Seu problema foi resolvido? Se ainda precisar de ajuda, clique aqui para abrir um chamado. Se estiver tudo certo, pode encerrar o atendimento. Estamos aqui para ajudar!
+
 **✅5.Dúvidas ou Sugestões**
+>Tem alguma dúvida ou uma sugestão que gostaria de compartilhar? Adoramos ouvir suas ideias e responder suas questões! 🌈 Seja uma curiosidade pequena ou uma grande ideia para melhorar nosso serviço, estamos aqui de ouvidos bem abertos. Basta me contar o que está pensando, e vamos explorar juntos as possibilidades. Sua participação é uma parte essencial da nossa jornada de melhoria contínua. 
+
+> Seu problema foi resolvido? Se ainda precisar de ajuda, clique aqui para abrir um chamado. Se estiver tudo certo, pode encerrar o atendimento. Estamos aqui para ajudar!
 
 **✅6.Mudança de Infraestrutura**
+>Pensando em uma mudança de infraestrutura? Isso soa como um grande passo! 🚀 Para te ajudar a navegar por esse processo sem stress, montei um guia com tudo que você precisa saber. Confira aqui[[text](https://arturia-tech.movidesk.com/kb/pt-br/article/454200/mudanca-de-infraestrutura)].
+
+> Seu problema foi resolvido? Se ainda precisar de ajuda, clique aqui para abrir um chamado. Se estiver tudo certo, pode encerrar o atendimento. Estamos aqui para ajudar!
 
 **✅7.Identifiquei Bug no Produto Padrão**
 
+> Oi! Descobriu um bug no produto? Vamos resolver isso juntos. Confira nosso guia rápido para reportar bugs aqui[https://arturia-tech.movidesk.com/kb/pt-br/article/454198/identifiquei-bug-no-produto-padrao].
+
+> Seu problema foi resolvido? Se ainda precisar de ajuda, clique aqui para abrir um chamado. Se estiver tudo certo, pode encerrar o atendimento. Estamos aqui para ajudar!
+
 **✅8.Um ou mais usuários não conseguem acessar a plataforma**
 
-> Olá! Como posso ajudar você hoje? Parece que você está enfrentando um problema que um ou mais usuários não conseguem acessar a plataforma. Para fornecer uma solução mais detalhada, gostaria de pedir que você acessasse o seguinte link: [https://arturia-tech.movidesk.com/kb/pt-br/article/454119/um-ou-mais-usuarios-nao-conseguem-acessar-o-sistema]. Lá, você encontrará informações adicionais e possíveis soluções para o seu problema. Depois de revisar as informações, se você precisar de mais assistência, estou aqui para ajudar.
+> Oi! Vi que temos um desafio com o acesso à plataforma, certo? Vamos resolver isso juntos! Confira nosso guia rápido aqui [https://arturia-tech.movidesk.com/kb/pt-br/article/454119/um-ou-mais-usuarios-nao-conseguem-acessar-o-sistema].  Se precisar de mais ajuda, estou aqui, sempre feliz em ajudar! 😊
 
-> Seu problema foi solucionado? Caso contrário, por favor, clique aqui para abrir um chamado e entrar em contato com nossa Equipe de Suporte!
-
-> Caso seu problema tenha sido resolvido, por favor, proceda com o encerramento do atendimento.
+>Seu problema foi resolvido? Se ainda precisar de ajuda, clique aqui para abrir um chamado. Se estiver tudo certo, pode encerrar o atendimento. Estamos aqui para ajudar!"
 
 
 **✅9.Problemas na Roterização ou Cadastro de Clientes**
->
+>Ops! Viu algo estranho na roteirização ou no cadastro de clientes? Vamos dar uma olhada juntos nisso! 🌟 Preparei um guia que pode ser a luz no fim do túnel para esses percalços. Dá um pulinho aqui[https://arturia-tech.movidesk.com/kb/pt-br/article/454196/problemas-na-roteirizacao-ou-cadastro-de-clientes]Estou aqui torcendo e disponível para tornar essa experiência o mais tranquila possível para você. Qualquer coisa, é só chamar!
+
+> Seu problema foi resolvido? Se ainda precisar de ajuda, clique aqui para abrir um chamado. Se estiver tudo certo, pode encerrar o atendimento. Estamos aqui para ajudar!
+
 
 - :heavy_check_mark:Voltar ao menu inicial
 
@@ -166,9 +184,9 @@ Se o usuário escolher "Suporte" em qualquer ponto, ou se o bot não conseguir r
 🔵 **Bot** **Espero que tenhamos conseguido ajudar você da melhor forma possível! 🌈 Existe algo mais com que podemos ajudar? Sua felicidade é muito importante para nós!**
 
 > ## Opções
-
 ✅ Sim, tenho mais uma pergunta.
 ❌ Não, tudo resolvido por enquanto. Muito obrigado(a) pela ajuda!
+⬅️ Voltar ao menu anterior.
 
 > ## Se o usuário escolher "Sim, tenho mais uma pergunta"
 
@@ -180,9 +198,9 @@ Se o usuário escolher "Suporte" em qualquer ponto, ou se o bot não conseguir r
 🔵 **Bot**: Fico muito feliz em saber que conseguimos ajudar! 🎉 Antes de nos despedirmos, você poderia nos dar um feedback sobre o seu atendimento hoje? Sua opinião é muito valiosa para nós e nos ajuda a melhorar constantemente o nosso serviço.
 
 > ## Opções de Feedback
-
 ✅ Claro, gostaria de dar um feedback.
 ❌ Prefiro não dar feedback agora.
+⬅️ Voltar ao menu anterior.
 
 > Caso o usuário escolha dar um feedback
 
