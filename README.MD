@@ -51,7 +51,7 @@ Equipe Customer Success
 >
 <br>
 
-✅**Preciso do Suporte ele vai precisar ir pro fluxo Suporte: 4**
+✅**Preciso do Suporte = ele vai precisar ir pro fluxo Suporte: 4**
 > 
 
 [x] Suporte
@@ -102,8 +102,7 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 **✅[1]Estou com Problema em uma personalização**
 >
 
-:heavy_check_mark:Problema Botão  
-<br>    
+:heavy_check_mark:Problema Botão     
 :heavy_check_mark:Problema no front
 <br>
 :heavy_check_mark:Abrir Chamado de personalização
@@ -118,6 +117,8 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 [https://arturia-tech.movidesk.com/form/8453/]
 
 - :heavy_check_mark:Voltar ao menu inicial
+
+<br>
 
 > ## 4 Suporte
 
@@ -163,9 +164,13 @@ Se o usuário escolher "Suporte" em qualquer ponto, ou se o bot não conseguir r
 
 - :heavy_check_mark:Voltar ao menu inicial
 
-##  Finalização
+>##  Finalização
+<br>
 🔵 **Bot** Sua satisfação é nossa prioridade. Há mais algo em que podemos ser úteis?
-Opções:
+<br>
+
+> ## Opções
+
 ✅ Sim, gostaria de mais informações.
 <br>
 ❌ Não, estou satisfeito(a) com o suporte recebido.
