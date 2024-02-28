@@ -21,14 +21,15 @@
 
 > ## 1 Implantação (CS)
 <br>
-**🔵 Bot: Olá! Você selecionou Implantação (Customer Success). Como podemos auxiliar você com a implantação do nosso serviço?**
+
+🔵 **Bot**: **Olá! Você selecionou Implantação (Customer Success). Como podemos auxiliar você com a implantação do nosso serviço?**
 
 
 > ## Opções:
 
-**:heavy_check_mark:[x]:Agendar uma reunião com CS**
+**[heavy_check_mark]:Agendar uma reunião com CS**
 
->
+>[x] 
 Prezado(a) [Nome do Cliente],
 
 Agradecemos por entrar em contato com a nossa equipe de Customer Success. Para nos permitir atendê-lo(a) da melhor maneira possível e discutir detalhadamente suas necessidades ou preocupações, gostaríamos de sugerir o agendamento de uma reunião.
@@ -62,39 +63,45 @@ Equipe Customer Success
 
 > ## 2 Equipe Comercial
 
-🔵 **Bot**: Olá! Que bom ver você por aqui. 😊 Eu sou parte da Equipe Comercial e estou super animado para ajudar você com qualquer coisa que precisar. Como podemos ajudar você hoje?
-Opções:**
+🔵 **Bot**: **Olá! Que bom ver você por aqui. 😊 Eu sou parte da Equipe Comercial e estou super animado para ajudar você com qualquer coisa que precisar. Como podemos ajudar você hoje?**
 
-**:heavy_check_mark:[x]:Solicitar contato comercial**
+> ## Opções:
+
+**[:heavy_check_mark:]:Solicitar contato comercial**
 >
 Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8450/]
 <br>
 
-**:heavy_check_mark:[x]:Solicitar mais licenças** 
+**[:heavy_check_mark:]:Solicitar mais licenças** 
 >
-<br>
 
 Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8451/]
-**:heavy_check_mark:-[x]:Saber mais sobre outros produtos**
->
 <br>
+
+
+**[:heavy_check_mark:]:Saber mais sobre outros produtos**
+>
 Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
+<br>
+
 
 <br>
 - :heavy_check_mark: Voltar ao menu inicial
+- :heavy_check_mark: Voltar as opções anteriores
 <br>
 
 > ##  3 Personalização
 
 :heavy_check_mark: Bot: Você selecionou Personalização. Como podemos ajudá-lo a personalizar sua experiência?
-Opções:
+
+> ## Opções:
 
 **:heavy_check_mark:-[x]: Estou com Problema em uma personalização**
 >
 
-Problema Botão      
-Problema no front
-Abrir Chamado de personalização
+[x]Problema Botão      
+[x]Problema no front
+[x]Abrir Chamado de personalização
 
 :heavy_check_mark:Voltar ao menu inicial
 
