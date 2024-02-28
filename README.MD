@@ -4,7 +4,7 @@
 
 ## 1. Mensagem de Boas-vindas e Menu Inicial
 
-**- :heavy_check_mark:Bot: Olá! Seja muito bem-vindo ao Serviço de Atendimento ao Cliente da Arturia. Como posso ajudá-lo hoje?**
+**🔵 **Bot**:: Olá! Seja muito bem-vindo ao Serviço de Atendimento ao Cliente da Arturia. Como posso ajudá-lo hoje?**
 
 > ## Opções:
 <br>
@@ -20,12 +20,13 @@
 > Direcionamentos
 
 > ## 1 Implantação (CS)
+<br>
+🔵 **Bot**: Olá! Você selecionou Implantação (Customer Success). Como podemos auxiliar você com a implantação do nosso serviço?
 
-:heavy_check_mark:**- :heavy_check_mark:Bot: Olá! Você selecionou Implantação (Customer Success). Como podemos auxiliar você com a implantação do nosso serviço?**
 
 > ## Opções:
 
-**:heavy_check_mark:-[x]:Agendar uma reunião com CS**
+**:heavy_check_mark:[x]:Agendar uma reunião com CS**
 
 >
 Prezado(a) [Nome do Cliente],
@@ -50,6 +51,7 @@ Equipe Customer Success
 
 **:heavy_check_mark:-[x]: Preciso do Suporte ele vai precisar ir pro fluxo Suporte: 4**
 > 
+
 [x] Suporte
 
 <br>
@@ -60,7 +62,7 @@ Equipe Customer Success
 
 > ## 2 Equipe Comercial
 
-**- :heavy_check_mark: Bot: Olá! Que bom ver você por aqui. 😊 Eu sou parte da Equipe Comercial e estou super animado para ajudar você com qualquer coisa que precisar. Como podemos ajudar você hoje?
+🔵 **Bot**: Olá! Que bom ver você por aqui. 😊 Eu sou parte da Equipe Comercial e estou super animado para ajudar você com qualquer coisa que precisar. Como podemos ajudar você hoje?
 Opções:**
 
 **:heavy_check_mark:[x]:Solicitar contato comercial**
