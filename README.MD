@@ -94,6 +94,7 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 
 > ##  3 Personalização
 <br>
+
 🔵 **Bot**: **Você selecionou Personalização. Como podemos ajudá-lo a personalizar sua experiência?**
 
 > ## Opções:
@@ -101,10 +102,12 @@ Seus dados de contatos:[https://arturia-tech.movidesk.com/form/8452/]
 **✅[1]Estou com Problema em uma personalização**
 >
 
-:heavy_check_mark:Problema Botão      
+:heavy_check_mark:Problema Botão  
+<br>    
 :heavy_check_mark:Problema no front
+<br>
 :heavy_check_mark:Abrir Chamado de personalização
-
+<br>
 
 **✅[2]Você deseja solicitar uma nova personalização**
 >
@@ -157,6 +160,8 @@ Se o usuário escolher "Suporte" em qualquer ponto, ou se o bot não conseguir r
 
 **✅9.Problemas na Roterização ou Cadastro de Clientes**
 >
+
+- :heavy_check_mark:Voltar ao menu inicial
 
 ##  Finalização
 🔵 **Bot** Sua satisfação é nossa prioridade. Há mais algo em que podemos ser úteis?
