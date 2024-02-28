@@ -27,7 +27,7 @@
 
 > ## Opções:
 
-[:heavy_check_mark:]:Agendar uma reunião com CS
+**[✅]:Agendar uma reunião com CS**
 
 >
 
@@ -51,7 +51,7 @@ Equipe Customer Success
 >
 <br>
 
-[:heavy_check_mark:]: Preciso do Suporte ele vai precisar ir pro fluxo Suporte: 4
+[:heavy_check_mark:]: Preciso do Suporte ele vai precisar ir pro fluxo Suporte: 4**
 > 
 
 [x] Suporte
